@@ -3,7 +3,7 @@ name = "SigmaOS-arch-msl-kernel"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "arch-msl-kernel component"
+description = "SigmaOS SigmaOS-arch-msl-kernel component"
 upstream = []
 
 [contract]
